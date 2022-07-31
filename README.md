@@ -1,4 +1,4 @@
-# Public Bot and Support Server!
+# Public Bot!
 
 <a href="https://discord.gg/dcdev"><img src="https://discord.com/api/guilds/773668217163218944/widget.png?style=banner2"></a>
  
