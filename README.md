@@ -1,6 +1,6 @@
 # Public Bot!
 
-<a href="https://discord.gg/dcdev"><img src="https://discord.com/api/guilds/773668217163218944/widget.png?style=banner2"></a>
+<a href="https://discord.gg/dcdev"><img src="https://cdn.discordapp.com/attachments/980865947772518410/1003298392753045605/Logo-de-discord.webp"></a>
  
 [**Invite the Public Version of this Bot**](https://milrato.milrato.dev) so you don't need to host it by yourself or [join my Discord server](https://discord.gg/dcdev) to get a custom Bot hosted for you!
 
