@@ -1,6 +1,6 @@
 # Public Bot!
 
-<a href="https://discord.gg/dcdev"><img src="https://cdn.discordapp.com/attachments/980865947772518410/1003298392753045605/Logo-de-discord.webp"></a>
+<a href="https://dsc.gg/thunligh"><img src="https://cdn.discordapp.com/attachments/980865947772518410/1003298392753045605/Logo-de-discord.webp"></a>
  
 [**Invite the Public Version of this Bot**](https://dsc.gg/mewt) so you don't need to host it by yourself or [join my Discord server](https://dsc.gg/thunligh) to get a custom Bot hosted for you!
 
@@ -13,7 +13,7 @@ node canvasApi.js
 
 # Important notes and thank ❤️
 First of all, thanks for using this Source Code, it was and is a ton of work to create and maintain it!
-That's why I'm asking everyone to [**donate a little bit of money**](https://donate.milrato.dev) or if that's not possible, then join my [Discord Server](https://discord.gg/dcdev)!
+That's why I'm asking everyone to [**donate a little bit of money**](https://donate.milrato.dev) or if that's not possible, then join my [Discord Server](https://dsc.gg/thunligh)!
 
   **NOTE:** It is suggested to use the [Sharded (&Clustered) version](https://github.com/Tomato6966/Multipurpose-discord-bot/tree/sharded_with_mongo), if you plan on using it for a VERIFIED BOT (on more then 2000 Servers!)
  
