@@ -23,4 +23,4 @@
 
 # Puedes apoyarme invitando a **__VIPER__**
 
-[![Viper | El Más Completo Todo-En-Uno](https://cdn.discordapp.com/avatars/919695409813815367/73ae978048bf4ea3c751638372d92a1f.webp?size=256)](https://dsc.gg/mewt)
+[![Viper | El Más Completo Todo-En-Uno](https://cdn.discordapp.com/avatars/919695409813815367/73ae978048bf4ea3c751638372d92a1f.webp?size=256)](https://dsc.gg/theviper)
