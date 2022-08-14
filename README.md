@@ -2,7 +2,7 @@
 
 <a href="https://dsc.gg/thunligh"><img src="https://cdn.discordapp.com/attachments/980865947772518410/1003683550807203930/Discord_tablist_mewt.png"></a>
  
-[**Invita al bot oficial**](https://dsc.gg/mewt)
+[**Invita al bot oficial**](https://dsc.gg/theviper)
 
 ## 🤖 Caracteristicas de Mewt:
 
@@ -21,6 +21,6 @@
    > 7. 🗳 **___Setup:___** `setup-suggestion`,`setup-ticket`,`setup-confessions`,`setup-report`
 
 
-# Puedes apoyarme invitando a **__MEWT__**
+# Puedes apoyarme invitando a **__VIPER__**
 
-[![Niby 2.0 | El Más Completo Todo-En-Uno](https://cdn.discordapp.com/avatars/919695409813815367/73ae978048bf4ea3c751638372d92a1f.webp?size=256)](https://dsc.gg/mewt)
+[![Viper | El Más Completo Todo-En-Uno](https://cdn.discordapp.com/avatars/919695409813815367/73ae978048bf4ea3c751638372d92a1f.webp?size=256)](https://dsc.gg/mewt)
