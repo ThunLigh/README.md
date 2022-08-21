@@ -4,7 +4,7 @@
  
 [**Invita al bot oficial**](https://dsc.gg/theviper)
 
-## 🤖 Caracteristicas de Mewt:
+## 🤖 Caracteristicas de Viper:
 
    > 1. 🔰 **___Information Commands:___** `help`,`ping`,`bot`,`github`,`invite`,`avatar`,`rules`,`support`.
 
