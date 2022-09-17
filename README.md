@@ -4,7 +4,7 @@
  
 [**Invita al bot oficial**](https://dsc.gg/theviper)
 
-## 🤖 Caracteristicas de Viper:
+## 🤖 Caracteristicas de Kew'x:
 
    > 1. 🔰 **___Information Commands:___** `help`,`ping`,`bot`,`github`,`invite`,`avatar`,`rules`,`support`.
 
@@ -21,6 +21,6 @@
    > 7. 🗳 **___Setup:___** `setup-suggestion`,`setup-ticket`,`setup-confessions`,`setup-report`
 
 
-# Puedes apoyarme invitando a **__VIPER__**
+# Puedes apoyarme invitando a **__Kew'x__**
 
-[![Viper | El Más Completo Todo-En-Uno](https://cdn.discordapp.com/avatars/919695409813815367/73ae978048bf4ea3c751638372d92a1f.webp?size=256)](https://dsc.gg/theviper)
+[![Viper | El Más Completo Todo-En-Uno](https://cdn.discordapp.com/avatars/1013969643049857104/52e1c22cb3e1ee65e19020c0f2d228e6.png?size=2048)](https://dsc.gg/theviper)
