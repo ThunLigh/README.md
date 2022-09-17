@@ -23,4 +23,4 @@
 
 # Puedes apoyarme invitando a **__Kew'x__**
 
-[![Viper | El Más Completo Todo-En-Uno](https://cdn.discordapp.com/avatars/1013969643049857104/52e1c22cb3e1ee65e19020c0f2d228e6.png?size=2048)](https://dsc.gg/theviper)
+[![Viper | El Más Completo Todo-En-Uno](https://cdn.discordapp.com/attachments/1013893368620798072/1020662387038224384/Kewx_v2.png)](https://dsc.gg/theviper)
