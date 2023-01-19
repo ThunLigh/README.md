@@ -1,26 +1,18 @@
-# Bot Público y Servidor de Soporte!
+## Hi I'm ThunLigh <img src="https://user-images.githubusercontent.com/1303154/88677602-1635ba80-d120-11ea-84d8-d263ba5fc3c0.gif" width="28px" alt="hi">
 
-<a href="https://dsc.gg/thunligh"><img src="https://cdn.discordapp.com/attachments/980865947772518410/1003683550807203930/Discord_tablist_mewt.png"></a>
- 
-[**Invita al bot oficial**](https://dsc.gg/theviper)
+Hello, I'm ThunLigh, a software development student and an apprentice in the world of programming. My favorite hobby is programming. You can check out some of my published repositories on my GitHub.
 
-## 🤖 Caracteristicas de Kew'x:
+How to Reach Me! :)
 
-   > 1. 🔰 **___Information Commands:___** `help`,`ping`,`bot`,`github`,`invite`,`avatar`,`rules`,`support`.
+[![Mail Badge](https://img.shields.io/badge/-LuxColdDev-c0392b?style=flat&labelColor=c0392b&logo=gmail&logoColor=white)](mailto:sluxofficial6@gmail.com)
 
-   > 2. :crossed_swords: **___Management Commands:___** `ban`,`bug`,`lock`,`unlock`,`kick`,`warn`,`unwarn`,`warns`,`userinfo`,`serverinfo`,`clear`,`say`,`topic`.
+- 🤖 Programmer.
+- 🔪 I like to play shooter video games.
 
-   > 3. :rofl: **___Fun Commands:___** `snake`,`drunk`,`kiss`,`hugs`,`minehead`,`meme`.
-   
-   > 4. :cd: **___Music Commands:___** `play`,`queue`,`stop`,`skip`.
-   
-   > 5. ⚙️ **___Settings:___** `setprefix`.
-   
-   > 6. 📌 **___Others:___** `calculator`,`colorrandom`,`multiply`,`subtract`,`sum`,`tts`.
-   
-   > 7. 🗳 **___Setup:___** `setup-suggestion`,`setup-ticket`,`setup-confessions`,`setup-report`
+#### Github Stats
 
+![ThunLighDev's github stats](https://github-readme-stats.vercel.app/api?username=ThunLighDev&count_private=true&theme=tokyonight&hide=contribs,prs)
 
-# Puedes apoyarme invitando a **__Kew'x__**
+#### Profile Visits 
 
-[![Viper | El Más Completo Todo-En-Uno](https://cdn.discordapp.com/attachments/1013893368620798072/1020662387038224384/Kewx_v2.png)](https://dsc.gg/theviper)
+![visitors](https://visitor-badge.glitch.me/badge?page_id=luxcoldev.luxcolddev)
