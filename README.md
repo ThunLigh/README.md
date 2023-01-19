@@ -2,10 +2,6 @@
 
 Hello, I'm ThunLigh, a software development student and an apprentice in the world of programming. My favorite hobby is programming. You can check out some of my published repositories on my GitHub.
 
-How to Reach Me! :)
-
-[![Mail Badge](https://img.shields.io/badge/-LuxColdDev-c0392b?style=flat&labelColor=c0392b&logo=gmail&logoColor=white)](mailto:sluxofficial6@gmail.com)
-
 - 🤖 Programmer.
 - 🔪 I like to play shooter video games.
 
