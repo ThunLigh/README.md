@@ -7,4 +7,4 @@ Hello, I'm ThunLigh, a software development student and an apprentice in the wor
 
 #### Profile Visits 
 
-![visitors](https://visitor-badge.glitch.me/badge?page_id=luxcoldev.luxcolddev)
+![visitors](https://visitor-badge.glitch.me/badge?page_id=thunlighdev.thunlighdev)
