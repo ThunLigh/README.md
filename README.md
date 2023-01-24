@@ -5,10 +5,6 @@ Hello, I'm ThunLigh, a software development student and an apprentice in the wor
 - 🤖 Programmer.
 - 🔪 I like to play shooter video games.
 
-#### Github Stats
-
-![ThunLighDev's github stats](https://github-readme-stats.vercel.app/api?username=ThunLighDev&count_private=true&theme=tokyonight&hide=contribs,prs)
-
 #### Profile Visits 
 
 ![visitors](https://visitor-badge.glitch.me/badge?page_id=luxcoldev.luxcolddev)
