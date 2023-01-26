@@ -27,15 +27,11 @@ Hello, I'm ThunLigh, a software development student and an apprentice in the wor
 	<a href="https://nodejs.org" target="_blank"> 
   		<code><img src="https://github.com/devicons/devicon/blob/master/icons/nodejs/nodejs-original.svg" alt="Node.js" width="40" height="40"/></code>
 	</a>
-	<a href="https://reactjs.org/" target="_blank"> 
   		<code><img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/react/react.png" alt="React.js" width="40" height="40"/></code>
 	</a> 
 	<a href="https://www.python.org" target="_blank"> 
   		<code><img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/python/python.png" alt="Python" width="40" height="40"/></code>
 	</a> 
-	<a href="https://heroku.com" target="_blank"> 
-  		<code><img src="https://www.vectorlogo.zone/logos/heroku/heroku-icon.svg" alt="Heroku" width="40" height="40"/></code>
-	</a>
 	<a href="https://www.mongodb.com/">
 		<code><img src="https://github.com/devicons/devicon/blob/master/icons/mongodb/mongodb-original-wordmark.svg" alt="MongoDB" width="40" height="40"/></code>
 	</a>
@@ -45,7 +41,7 @@ Hello, I'm ThunLigh, a software development student and an apprentice in the wor
 
 <div align="center">
 	</a>
-	<a href="https://www.instagram.com/xluxcode/" target="_blank">
+	<a href="https://www.instagram.com/yxsif_bt/" target="_blank">
 		<img src=https://img.shields.io/badge/instagram-%23000000.svg?&style=for-the-badge&logo=instagram&logoColor=white alt=instagram style="margin-bottom: 5px;" />
 	</a>  
 </div>  
