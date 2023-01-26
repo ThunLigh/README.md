@@ -26,10 +26,7 @@ Hello, I'm ThunLigh, a software development student and an apprentice in the wor
 	</a> 
 	<a href="https://nodejs.org" target="_blank"> 
   		<code><img src="https://github.com/devicons/devicon/blob/master/icons/nodejs/nodejs-original.svg" alt="Node.js" width="40" height="40"/></code>
-	</a>
-  		<code><img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/react/react.png" alt="React.js" width="40" height="40"/></code>
-	</a> 
-  		<code><img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/python/python.png" alt="Python" width="40" height="40"/></code>
+	</a>width="40" height="40"/></code>
 	</a> 
 	<a href="https://www.mongodb.com/">
 		<code><img src="https://github.com/devicons/devicon/blob/master/icons/mongodb/mongodb-original-wordmark.svg" alt="MongoDB" width="40" height="40"/></code>
