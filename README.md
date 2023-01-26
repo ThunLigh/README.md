@@ -4,7 +4,7 @@ Hello, I'm ThunLigh, a software development student and an apprentice in the wor
 
 <h3>💻 Quick Facts</h3>
 <p>
-	<img align="right" alt="LuxColdDev's github stats" width="50%" src="https://github-readme-stats.vercel.app/api?username=LuxColdDev&show_icons=true&include_all_commits=true&theme=react">
+	<img align="right" alt="ThunLighDev's github stats" width="50%" src="https://github-readme-stats.vercel.app/api?username=ThunLighDev&show_icons=true&include_all_commits=true&theme=react">
 </p>
 
 - 🤖 Programmer.
