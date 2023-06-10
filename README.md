@@ -11,7 +11,7 @@
 <div align="center">
     
 -----
-###### Web: https://kazura.ga/
+###### Web: https://kazura.netlify.app/
 </div>
 </div>
 </br>
