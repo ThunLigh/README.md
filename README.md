@@ -9,8 +9,6 @@
 #### My name is Thunligh, I am passionate about coding, I have been doing this for more than 2 years. My great experience is working on discord bot and web pages. ⚡
 </br>
 <div align="center">
-
-<em>hola</em>
     
 -----
 ###### Web: https://kazura.netlify.app/
