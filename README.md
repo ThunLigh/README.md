@@ -6,9 +6,8 @@
 	<img src="https://komarev.com/ghpvc/?username=ThunLighDev&color=red"/>
 	</p>
 
-I'm ThunLigh, student in cybersecurity and apprentice in the programming world. I just enjoy coding fun things. Feel free to check out some of my repositories or leave any questions. I am new to Github, so any advice would be great!
+I am ThunLigh, software development student, apprentice in the world of programming. I like to program things that I can learn from and have fun.
 
-How to Reach Me! :)
 
 <h3>💎 Profile</h3>
 
