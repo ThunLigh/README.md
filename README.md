@@ -11,7 +11,7 @@ I am ThunLigh, software development student, apprentice in the world of programm
 
 <h3>💎 Profile</h3>
 
-* 🤖 `I’m currently learning`: **Java and PHP.**
+* 🤖 `I’m currently learning`: **PHP.**
 * 🔫 `Favorite Games`: **I like to play video games like Valorant and Minecraft.**
 * ❤️ `I Love`: **Listening to music and Programming.**
 * 💻 `Favorite lang`: **JavaScript.** 
